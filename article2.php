@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teknologi Modifikasi Cuaca Terbaru</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">            
+            <header><img src="header.png"></header>            
+            <nav>
+				<ul>
+					<li><a href="index.php">Beranda</a></li>
+					<li><a href="index.php">Artikel</a></li>
+					<li><a href="#">Profil</a>
+						<ul class="submenu">
+							 <li><a href="contact.php">Hub Kami</a></li>
+                            <li><a href="about.php">Tentang Kami</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>            
+            <article>
+				<div id="single">
+					<div id="t-image-1" style="background:url(images/article2.jpeg)">&nbsp;</div>
+					<h2>Teknologi Modifikasi Cuaca Terbaru Diuji Coba di Sumatra untuk Atasi Kabut Asap</h2>
+					<p id="isi">
+                       Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) bekerja sama dengan BNPB memulai uji coba teknologi modifikasi cuaca (TMC) generasi terbaru untuk mengatasi masalah kabut asap akibat kebakaran hutan dan lahan (karhutla) di beberapa provinsi di Sumatra. Uji coba yang dipusatkan di Riau ini menggunakan drone penyemai awan dan zat semai higroskopis yang lebih ramah lingkungan.
+Kepala BMKG, Dwikorita Karnawati, menjelaskan bahwa teknologi baru ini memungkinkan penyemaian awan hujan dilakukan secara lebih presisi dan efisien. "Jika sebelumnya kita sangat bergantung pada pesawat berawak dengan jangkauan terbatas, kini dengan drone kita bisa menyemai awan-awan potensial di lokasi titik api yang sulit dijangkau sekalipun," ujarnya.
+Dalam tiga hari pertama uji coba, beberapa wilayah di Riau dan Jambi berhasil diguyur hujan dengan intensitas ringan hingga sedang, terbukti efektif mengurangi ketebalan asap dan meningkatkan kualitas udara. Pemerintah berharap teknologi ini bisa menjadi solusi permanen untuk mencegah bencana kabut asap tahunan yang kerap melanda Pulau Sumatra dan sekitarnya.
+                    </p>
+				</div>
+			</article>             
+            <aside>
+					<li class="widget">
+						<h2>Berita Populer</h2>
+						<ul>
+						<li><a href="article1.php">Satelit Nusantara-5 Sukses Mengorbit</a></li>
+						<li><a href="article2.php">Teknologi Modifikasi Cuaca Terbaru</a></li>
+						<li><a href="article3.php">Anthony Ginting Rebut Gelar Juara</a></li>
+						</ul>
+					</li>
+					<li class="widget">
+						<h2>Artikel Populer</h2>
+						<ul>
+						<li><a href="article1.php">Artikel 1</a></li>
+						<li><a href="article2.php">Artikel 2</a></li>
+						<li><a href="article3.php">Artikel 3</a></li>
+						</ul>
+					</li>
+					<li class="widget">
+						<h2>Berita selanjutnya</h2>
+						<ul>
+						<li><a href="article4.php">BSSN Luncurkan Platform "CekFakta AI"</a></li>
+						</ul>
+					</li>
+			</aside>            
+            <footer>
+				<div id="column">
+					<h2>LAYANAN</h2>
+					E-Mail<br>
+					Langganan<br>
+				</div>
+				<div id="column">
+					<h2>Business Hour</h2>
+					Silahkan hubungi admin HAIDAR NEWS telp 08123456789 pada jam kerja atau email <a href="mailto:haidar0701232073@uinsu.ac.id">haidar0701232073@uinsu.ac.id</a>
+				</div>
+				<div id="column">
+					<h2>Head Office</h2>
+					Jl. Pembangunan, Tuntungan II, Deli Serdang<br>
+					Tel : +62-8123456789<br>
+					Email : haidar0701232073@uinsu.ac.id<br>
+				</div>
+			</footer>
+        </div>
+	</div>
+</body>
+</html>

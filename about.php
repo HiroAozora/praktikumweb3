@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tentang Kami - HAIDAR NEWS</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">            
+            <header><img src="header.png"></header>            
+            <nav>
+                <ul>
+                    <li><a href="index.php">Beranda</a></li>
+                    <li><a href="index.php">Artikel</a></li>
+                    <li><a href="#">Profil</a>
+                        <ul class="submenu">
+                            <li><a href="contact.php">Hub Kami</a></li>
+                            <li><a href="about.php">Tentang Kami</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>            
+            <article>
+                <div class="page-content">
+                    <h2>Tentang HAIDAR NEWS</h2>
+                    <p>Selamat datang di <strong>HAIDAR NEWS</strong>, sumber terpercaya Anda untuk berita dan artikel terkini seputar teknologi, olahraga, dan peristiwa nasional. Kami berkomitmen untuk menyajikan informasi yang akurat, mendalam, dan relevan bagi masyarakat Indonesia.</p>
+
+                    <h3>Sejarah Singkat</h3>
+                    <p>Didirikan pada tahun 2025, HAIDAR NEWS berawal dari sebuah proyek sederhana untuk memenuhi kebutuhan informasi di lingkungan kampus. Seiring berjalannya waktu, kami berkembang menjadi sebuah portal berita yang diakses oleh ribuan pembaca setiap harinya. Kami percaya bahwa informasi yang berkualitas adalah kunci untuk mencerdaskan bangsa.</p>
+
+                    <h3>Visi & Misi</h3>
+                    <p><strong>Visi:</strong> Menjadi portal berita digital terdepan di Indonesia yang mengedepankan integritas, inovasi, dan independensi.</p>
+                    <p><strong>Misi:</strong></p>
+                    <ul>
+                        <li>Menyajikan berita yang cepat, akurat, dan berimbang.</li>
+                        <li>Menyediakan platform bagi penulis dan jurnalis muda untuk berkarya.</li>
+                        <li>Mengedukasi masyarakat melalui konten-konten informatif dan inspiratif.</li>
+                        <li>Mengadaptasi perkembangan teknologi untuk pengalaman membaca yang lebih baik.</li>
+                    </ul>
+                </div>
+            </article>            
+            <aside>
+                <li class="widget">
+                    <h2>Berita Populer</h2>
+                    <ul>
+                    <li><a href="article1.php">Satelit Nusantara-5 Sukses Mengorbit</a></li>
+                    <li><a href="article2.php">Teknologi Modifikasi Cuaca Terbaru</a></li>
+                    <li><a href="article3.php">Anthony Ginting Rebut Gelar Juara</a></li>
+                    </ul>
+                </li>
+            </aside>            
+            <footer>
+                <div id="column">
+					<h2>LAYANAN</h2>
+					E-Mail<br>
+					Langganan<br>
+				</div>
+                <div id="column">
+                    <h2>Business Hour</h2>
+                    Silahkan hubungi admin HAIDAR NEWS telp 08123456789 pada jam kerja atau email <a href="mailto:haidar0701232073@uinsu.ac.id">haidar0701232073@uinsu.ac.id</a>
+                </div>
+                <div id="column">
+                    <h2>Head Office</h2>
+                    Jl. Pembangunan, Tuntungan II, Deli Serdang<br>
+                    Tel : +62-8123456789<br>
+                    Email : haidar0701232073@uinsu.ac.id<br>
+                </div>
+            </footer>        
+        </div>
+    </div>
+</body>
+</html>
